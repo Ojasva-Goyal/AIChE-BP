@@ -17,6 +17,7 @@ body{
     /* background-color: #eee; */
     line-height: 1.4;
     color: var(--dark);
+    overflow-x: hidden;
     /* justify-content: center; */
     /* align-items: center; */
 }
