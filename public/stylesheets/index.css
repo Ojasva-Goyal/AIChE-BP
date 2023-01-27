@@ -207,6 +207,11 @@ p {
    box-sizing: border-box;
    color: #fff;
 }
+
+.readmore{
+    color: rgb(53, 53, 211);
+}
+
 .features h3{
    text-align: center;
    font-weight: 1000;
