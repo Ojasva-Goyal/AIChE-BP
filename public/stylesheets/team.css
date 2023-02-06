@@ -64,6 +64,8 @@ img{
 }
 .navbar-nav a:hover{
     opacity: 0.5;
+    font-weight: bold;
+    font-size: larger;
     
 }
 
