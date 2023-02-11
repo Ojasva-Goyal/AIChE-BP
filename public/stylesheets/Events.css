@@ -2,13 +2,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fascinate+Inline&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fascinate+Inline&family=Gentium+Plus&display=swap");
-/* :root{
+ :root{
     --Playfair: 'Playfair Display', serif;
     --Quicksand: 'Quicksand', sans-serif;
     --Roboto: 'Roboto', sans-serif;
     --dark: #3c393d;
     --exDark: #45405a;
-} */
+} 
 *{
     padding: 0;
     margin: 0;
@@ -156,7 +156,8 @@ h3 {
   }
   .each-container:hover {
     /*box-shadow: 0 5px 50px 0 #15f4ee , 0 5px 50px 0 #15f4ee, 0 5px 50px 0 #15f4ee, 0 5px 50px 0 #15f4ee;*/
-    box-shadow: 0 0 30px 5px rgb(20, 40, 40);
+    box-shadow: 0 0 20px rgb(20, 40, 40);
+    transition: box-shadow 0.5s ease;
   }
 
 
