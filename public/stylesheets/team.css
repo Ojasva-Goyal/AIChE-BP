@@ -22,10 +22,13 @@ body{
     /* justify-content: center; */
     /* align-items: center; */
 }
-img{
+.imgA{
     width: 100%;
     display: block;
+    margin: 35px;
+   
 }
+
 .container{
     max-width: 1320px;
     margin: 0 auto;
