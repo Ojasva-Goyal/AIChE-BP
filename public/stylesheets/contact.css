@@ -18,6 +18,12 @@ body{
     color: var(--dark);
     overflow-x: hidden;
 }
+.imgA{
+    width: 100%;
+    display: block;
+    margin: 35px;
+   
+}
 img{
     width: 100%;
     display: block;
