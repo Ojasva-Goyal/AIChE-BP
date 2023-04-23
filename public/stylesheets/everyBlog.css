@@ -17,10 +17,17 @@ body{
     color: var(--dark);
     background-image: url('../images/homePage/bg2.jpeg');
 }
+.imgA{
+    width: 100%;
+    display: block;
+    margin: 35px;
+   
+}
 img{
     width: 100%;
     display: block;
 }
+
 .container{
     max-width: 1320px;
     margin: 0 auto;
