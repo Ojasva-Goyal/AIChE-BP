@@ -19,6 +19,12 @@ body{
     color: var(--dark);
     background-image: url("../images/events/bg2.jpeg");
 }
+.imgA{
+  width: 100%;
+  display: block;
+  margin: 35px;
+ 
+}
 img{
     width: 100%;
     display: block;
@@ -178,6 +184,8 @@ h3 {
     border-color: #000000;
     
   }
+
+  
   
   .overlay{
     position: relative;
@@ -201,6 +209,7 @@ h3 {
   justify-content: center;
   align-content: center;
   padding: 8px;
+  
 }
 
 .additional-info{
@@ -208,6 +217,7 @@ h3 {
   margin-top: 8px;
   padding: 0px;
   padding-bottom: 0;
+
   
 }
 
@@ -269,6 +279,7 @@ h3 {
     text-align: justify;
     margin-left: 20%;
     font-size: 2em;
+    
   }/*# sourceMappingURL=sample1.css.map */
   
   .additional-info .social-links {
