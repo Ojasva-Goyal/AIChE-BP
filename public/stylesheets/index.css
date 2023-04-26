@@ -18,12 +18,10 @@ body{
     background-image: url('../images/homePage/bg2.jpeg');
     overflow-x: hidden;
 }
-
-
-
 img{
     width: 100%;
     display: block;
+   
 }
 /* .container{
     max-width: 1320px;
